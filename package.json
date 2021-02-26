@@ -13,7 +13,7 @@
     "express": "~4.2.0",
     "jade": "~1.3.0",
     "moment": "^2.7.0",
-    "morgan": "~1.0.0",
+    "morgan": "~1.10.0",
     "static-favicon": "~1.0.0"
   },
   "devDependencies": {
